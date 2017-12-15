@@ -13,7 +13,7 @@ namespace RoughDraftBonzer
     {
         List<string> tableNames = new List<string>();
         Dictionary<string, List<string>> attributeMap = new Dictionary<string, List<string>>();
-        string connectionString = "SERVER=localhost;DATABASE=sakila;UID=root;PASSWORD=iLovekendra1234;";
+        string connectionString = "SERVER=localhost;DATABASE=sakila;UID=root;PASSWORD=EnterYourPasswordHere;";
 
         public DBInfoRetrieval()
         {
