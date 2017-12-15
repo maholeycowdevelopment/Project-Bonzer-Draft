@@ -2,12 +2,12 @@
 
 NLI to Database, Research based project
 
-# H1 SYSTEM PREQUISITES:
+# SYSTEM PREQUISITES:
 
 1. Must have Visual Studio 2017 installed, or Visual Studio for Mac.
 2. Must have input and output (Your standard input device for your computer and speakers should do just find, no headphones, mics, etc. are needed)
 
-# H1 STEPS FOR SET UP:
+# STEPS FOR SET UP:
 
 1. Download the project
 2. Go to https://sergey-tihon.github.io/Stanford.NLP.NET/StanfordParser.html, and follow the instructions found here.
@@ -18,7 +18,7 @@ NLI to Database, Research based project
 7. Open the file MainWindow.xaml.cs, go to lines 21, and repeat what you did in step 6.
 8. Congratulations, you should now be able to run the code!
 
-# H1 HOW TO USE:
+# HOW TO USE:
 
 1. Build and run the project
 2. The program will greet you, after this, click on the button 'Listen'
