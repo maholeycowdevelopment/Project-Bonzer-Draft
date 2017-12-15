@@ -18,7 +18,7 @@ namespace RoughDraftBonzer
     {
         private SpeechRecognitionEngine speechRecognizer = new SpeechRecognitionEngine();
         private SpeechSynthesizer synth = new SpeechSynthesizer();
-        private string databaseAccessInfo = "SERVER=localhost;DATABASE=sakila;UID=root;PASSWORD=iLovekendra1234;";
+        private string databaseAccessInfo = "SERVER=localhost;DATABASE=sakila;UID=root;PASSWORD=EnterYourPasswordHere;";
 
         public MainWindow()
         {
